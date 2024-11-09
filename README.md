@@ -1,4 +1,4 @@
-# Financial Statistics Dashboard in excel 
+# Financial Statistics Dashboard in excel sheet
 ### Interactive visualization dashboard in excel
 
 This repo contains excel file for the portfolio project
